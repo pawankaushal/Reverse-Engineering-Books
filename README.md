@@ -8,7 +8,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Reverse-Engineering-Books/blob/master/revb(4).pdf" style="text-decoration:none;"> Reversing: Secrets of Reverse Engineering</a></b></li>
                             
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Reverse-Engineering-Books/blob/master/revb(5).pdf" style="text-decoration:none;">Reverse Engineering: Technology of Reinvention</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Reverse-Engineering-Books/blob/master/revb(6).pdf" style="text-decoration:none;">C Compilers for ASIPs: Automatic Compiler Generation with LISA</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Reverse-Engineering-Books/blob/master/revb(6).rar" style="text-decoration:none;">Design for Hackers: Reverse-Engineering Beauty</a></b></li>  
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Reverse-Engineering-Books/blob/master/revb(7).pdf" style="text-decoration:none;">Mastering Reverse Engineering</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Reverse-Engineering-Books/blob/master/revb(8).pdf" style="text-decoration:none;">Reverse Engineering &minus; Recent Advances and Applications</a></b></li>
